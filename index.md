@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Apresentação
 
-You can use the [editor on GitHub](https://github.com/tetri/tetri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tetri Mesquita Neto, brasileiro há 33 anos, casado há 9 anos, pai do Frederico há 6 anos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Formação Acadêmica
 
-### Markdown
+Bacharel em Informática desde 2007 pela Universidade Estadual do Oeste do Paraná - [UNIOESTE](https://unioeste.br/?ref=tetri.github.io) Campus Cascavel.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Trabalho
+
+Analista de Sistemas nível pleno desde 2010 na [Datacoper Software Ltda](https://www.datacoper.com.br?ref=tetri.github.io).
 
 ```markdown
 Syntax highlighted code block
