@@ -1,2 +1,2 @@
 # tetri.github.io
-Mr. Tetri Mesquita personal website
+a página pessoal de Tetri Mesquita Neto
