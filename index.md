@@ -12,11 +12,11 @@ Analista de Sistemas nível pleno desde 2010 na [Datacoper Software Ltda](https:
 
 ### Resumo da Vida
 
-[x] aprender a andar
-[x] aprender a falar
-[x] aprender a ler
-[x] conhecer pessoas
-[x] amar alguém
-[x] namorar alguém
-[x] pedir alguém em casamento
-[x] casar com alguém
+- [x] aprender a andar
+- [x] aprender a falar
+- [x] aprender a ler
+- [x] conhecer pessoas
+- [x] amar alguém
+- [x] namorar alguém
+- [x] pedir alguém em casamento
+- [x] casar com alguém
