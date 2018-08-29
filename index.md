@@ -8,15 +8,6 @@ Bacharel em Informática desde 2007 pela Universidade Estadual do Oeste do Paran
 
 ### Trabalho
 
-Analista de Sistemas nível pleno desde 2010 na [Datacoper Software Ltda](https://www.datacoper.com.br?ref=tetri.github.io).
+Analista de Sistemas nível pleno desde 2011 na [Datacoper Software Ltda](https://www.datacoper.com.br?ref=tetri.github.io).
 
-### Resumo da Vida
-
-- [x] aprender a andar
-- [x] aprender a falar
-- [x] aprender a ler
-- [x] conhecer pessoas
-- [x] amar alguém
-- [x] namorar alguém
-- [x] pedir alguém em casamento
-- [x] casar com alguém
+Desenvolvedor nível júnior de 2007 a 2010 na [COODETEC](http://www.coodetec.com.br/?ref=tetri.github.io)
