@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap");
 
 html {
   line-height: 1.15;
@@ -211,6 +211,7 @@ html {
 
 .box a {
   display: block;
+  color: #2b253b;
 }
 
 a,
@@ -221,7 +222,6 @@ a:focus-within,
 a:hover,
 a:visited {
   text-decoration: none;
-  color: #2b253b;
 }
 
 .header,
@@ -246,5 +246,19 @@ a:visited {
 }
 
 * {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background-color: #2b253b;
+  color: #1efdbe;
+  padding: 8px;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
 }
