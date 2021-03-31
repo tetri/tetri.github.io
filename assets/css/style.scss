@@ -3,14 +3,20 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 h1,h2,h3,h4,h5,h6 { 
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Raleway', sans-serif;
     font-weight: normal !important; 
+    text-transform: uppercase;
+}
+
+* {
+    font-family: 'Cormorant Garamond', serif;
+    color: #323232 !important;
 }
 
 body {
     background-color: #F7E10E;
-    color: #222;
 }
