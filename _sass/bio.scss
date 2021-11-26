@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;900&display=swap");
+
+@import url("https://api.fontshare.com/css?f[]=general-sans@400,700&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 *,
+h2 *,
+h3 *,
+h4 *,
+h5 *,
+h6 * {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin: 0;
+}
+
+* {
+  font-family: "General Sans", sans-serif;
+  color: #434343;
+}
+
+body {
+  background-color: #f7e10e;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  padding: 10px;
+  z-index: 100;
+  font-size: 8pt;
+
+  &:focus {
+    top: 0;
+  }
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 240px 60px;
+  gap: 10px;
+  padding: 10px;
+  min-width: 300px;
+}
+
+.image-cropper {
+  width: 180px;
+  height: 180px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  border: solid 1px #434343;
+}
+
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+.box {
+  white-space: nowrap;
+  vertical-align: middle;
+  font-size: 11pt;
+  line-height: 60px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  border-radius: 5px;
+
+  a {
+    text-decoration: none;
+    padding: 0px 30px;
+    display: block;
+  }
+}
+
+@media (min-width: 600px) {
+  .box {
+    margin: auto;
+    width: 560px;
+  }
+}
+
+.header,
+.footer {
+  background: none;
+  border: none;
+  box-shadow: none;
+  text-align: center;
+  padding: 0px;
+}
