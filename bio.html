@@ -48,62 +48,14 @@
         </div>
         <h1>@tetrimesquita</h1>
       </div>
+      {% for link in site.links %}
+
       <div class="box">
-        <a
-          href="https://www.instagram.com/tetrimesquita/"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Instagram</a
+        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer"
+          >{{ link.name }}</a
         >
       </div>
-      <div class="box">
-        <a
-          href="https://github.com/tetri"
-          target="_blank"
-          rel="noopener noreferrer"
-          >GitHub</a
-        >
-      </div>
-      <div class="box">
-        <a
-          href="https://www.linkedin.com/in/tetri/"
-          target="_blank"
-          rel="noopener noreferrer"
-          >LinkedIn</a
-        >
-      </div>
-      <div class="box">
-        <a
-          href="https://culinariamasculina.com.br/"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Culinária Masculina</a
-        >
-      </div>
-      <div class="box">
-        <a
-          href="https://www.facebook.com/tetri.mesquita/"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Facebook</a
-        >
-      </div>
-      <div class="box">
-        <a
-          href="https://twitter.com/tetri"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Twitter</a
-        >
-      </div>
-      <div class="box">
-        <a
-          href="https://www.amazon.com.br/hz/wishlist/ls/1A08GHI3J81G0?ref_=wl_share"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Lista de desejos na Amazon</a
-        >
-      </div>
+      {% endfor %}
     </main>
 
     <script>
