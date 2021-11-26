@@ -3,65 +3,53 @@
 
 <!DOCTYPE html>
 <html class="no-js" lang="pt-br">
-  <head>
-    <meta charset="utf-8" />
-    <title>Tetri Mesquita, arquiteto de software (@tetrimesquita)</title>
-    <meta name="description" content="Tetri Mesquita Neto" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <meta http-equiv="last-modified" content="{{ site.time }}" />
-    <meta http-equiv="cache-control" content="Private" />
-    <meta http-equiv="Expires" content="600" />
+<head>
+  <meta charset="utf-8" />
+  <title>Tetri Mesquita, arquiteto de software (@tetrimesquita)</title>
+  <meta name="description" content="Tetri Mesquita Neto" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <meta property="og:title" content="Tetri Mesquita, arquiteto de software" />
-    <meta property="og:type" content="" />
-    <meta property="og:url" content="https://tetri.github.io/bio.html" />
-    <meta
-      property="og:image"
-      content="https://www.gravatar.com/avatar/f08ef1f2b5eb4061f097df9256d09034?s=360"
-    />
+  <meta http-equiv="last-modified" content="{{ site.time }}" />
+  <meta http-equiv="cache-control" content="Private" />
+  <meta http-equiv="Expires" content="600" />
 
-    <!--<link rel="manifest" href="site.webmanifest" />-->
-    <!--<link rel="apple-touch-icon" href="icon.png" />-->
+  <meta property="og:title" content="Tetri Mesquita, arquiteto de software" />
+  <meta property="og:type" content="" />
+  <meta property="og:url" content="https://tetri.github.io/bio.html" />
+  <meta property="og:image" content="https://www.gravatar.com/avatar/f08ef1f2b5eb4061f097df9256d09034?s=360" />
 
-    <link
-      rel="preload"
-      href="bio.css"
-      as="style"
-      onload="this.onload=null;this.rel='stylesheet'"
-    />
-    <noscript><link rel="stylesheet" href="bio.css" /></noscript>
+  <!--<link rel="manifest" href="site.webmanifest" />-->
+  <!--<link rel="apple-touch-icon" href="icon.png" />-->
 
-    <meta name="theme-color" content="#1efdbe" />
-  </head>
+  <link rel="preload" href="bio.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript>
+    <link rel="stylesheet" href="bio.css" />
+  </noscript>
 
-  <body>
-    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <meta name="theme-color" content="#1efdbe" />
+</head>
 
-    <main id="conteudo" class="wrapper">
-      <div class="box header">
-        <div class="image-cropper">
-          <img
-            src="https://www.gravatar.com/avatar/f08ef1f2b5eb4061f097df9256d09034?s=360"
-            alt="Tetri Mesquita, arquiteto de software (@tetrimesquita)"
-            class="profile-pic"
-            width="360"
-            height="360"
-          />
-        </div>
-        <h1>@tetrimesquita</h1>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+  <main id="conteudo" class="wrapper">
+    <div class="box header">
+      <div class="image-cropper">
+        <img src="https://www.gravatar.com/avatar/f08ef1f2b5eb4061f097df9256d09034?s=360"
+          alt="Tetri Mesquita, arquiteto de software (@tetrimesquita)" class="profile-pic" width="360" height="360" />
       </div>
-      {% for link in site.links %}
+      <h1>@tetrimesquita</h1>
+    </div>
+    {% for link in site.links %}
 
-      <div class="box">
-        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer"
-          >{{ link.name }}</a
-        >
-      </div>
-      {% endfor %}
-    </main>
+    <div class="box">
+      <a href="{{ link.link }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>
+    </div>
+    {% endfor %}
+  </main>
 
-    <script>
+  <!--<script>
       window.ga = function () {
         ga.q.push(arguments);
       };
@@ -72,6 +60,7 @@
       ga("set", "transport", "beacon");
       ga("send", "pageview");
     </script>
-    <script src="https://www.google-analytics.com/analytics.js" async></script>
-  </body>
+    <script src="https://www.google-analytics.com/analytics.js" async></script>//-->
+</body>
+
 </html>
