@@ -1,4 +1,4 @@
-Tetri Mesquita Neto, brasileiro há 36 anos, casado há 11 anos, pai do Frederico há 9 anos e esperando o Theodoro.
+Tetri Mesquita Neto, brasileiro há 36 anos, casado há 12 anos com a Fernanda, pai do Frederico há 9 anos e do Theodoro há 7 meses.
 
 ## Vida Acadêmica
 
@@ -8,6 +8,7 @@ Vida acadêmica completa pode ser vista em detalhes no [currículo Lattes](http:
 
 ## Vida Profissional
 
+* **Arquiteto de Software** nível pleno desde 2021 na [Aliare](https://www.aliare.co?ref=tetri.github.io);
 * **Analista de Sistemas** nível pleno desde 2011 na [Datacoper Software Ltda](https://www.datacoper.com.br?ref=tetri.github.io);
 * **Professor** das disciplinas de *Algoritmos e Estrutura de Dados I* e *Programação Orientada à Objetos* na [UNIBAN](http://www.uniban.br/?ref=tetri.github.io) em 2009;
 * **Desenvolvedor** nível júnior de 2007 a 2010 na [COODETEC](http://www.coodetec.com.br/?ref=tetri.github.io);
