@@ -3,15 +3,15 @@ layout: page
 title: Sobre o autor
 ---
 
-Tetri Mesquita Neto, brasileiro há 36 anos, casado há 12 anos com a Fernanda, pai do Frederico há 9 anos e do Theodoro há 8 meses.
+{{ site.author_bio }}
 
-## Vida Acadêmica
+### Vida Acadêmica
 
 Bacharel em Informática desde 2007 pela Universidade Estadual do Oeste do Paraná - [UNIOESTE](https://unioeste.br/?ref=tetri.github.io) Campus Cascavel.
 
 Vida acadêmica completa pode ser vista em detalhes no [currículo Lattes](http://lattes.cnpq.br/3314823798831295/?ref=tetri.github.io).
 
-## Vida Profissional
+### Vida Profissional
 
 - **Arquiteto de Software** nível pleno desde 2021 na [Aliare](https://www.aliare.co?ref=tetri.github.io);
 - **Analista de Sistemas** nível pleno desde 2011 na [Datacoper Software Ltda](https://www.datacoper.com.br?ref=tetri.github.io);

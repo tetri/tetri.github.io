@@ -1,6 +1,6 @@
 name: Tetri Mesquita
 title: Tetri Mesquita
-description: arquiteto de software
+description: Arquiteto de Software
 meta_description: "Tetri Mesquita, arquiteto de software"
 
 author: Tetri Mesquita
@@ -19,7 +19,7 @@ logo: false
 paginate: 15
 #baseurl: /kasper
 domain_name: "http://tetri.github.io/"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-Z6MNF65F3V"
 
 collections:
   - links

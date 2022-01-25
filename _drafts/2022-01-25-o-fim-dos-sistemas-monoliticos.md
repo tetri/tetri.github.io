@@ -2,7 +2,7 @@
 layout: post
 title: "O fim dos Sistemas Monolíticos?"
 categories: arquitetura
-tags: monolíticos microserviços
+tags: arquitetura monolíticos microserviços
 ---
 
 O que é um sistema monolítico?
