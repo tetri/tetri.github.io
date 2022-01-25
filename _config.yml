@@ -1,16 +1,30 @@
-theme: jekyll-theme-minimal
-
+name: Tetri Mesquita
 title: Tetri Mesquita
 description: arquiteto de software
+meta_description: "Tetri Mesquita, arquiteto de software"
+
 author: Tetri Mesquita
+author_bio: "Brasileiro há 36 anos, casado há 12 anos com a Fernanda, pai do Frederico há 9 anos e do Theodoro há 8 meses. Experiência com análise e desenvolvimento de sistemas há mais de 15 anos, sempre no Agro."
+email: tetri.mesquita@gmail.com
+gravatar_hash: f08ef1f2b5eb4061f097df9256d09034
 
 timezone: America/Sao_Paulo
 
 markdown: kramdown
 highlighter: rouge
 permalink: none
-plugins:
-  [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-archive]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+logo: false
+paginate: 15
+#baseurl: /kasper
+domain_name: "http://tetri.github.io/"
+google_analytics: "UA-XXXXXXXX-X"
 
 collections:
   - links
+
+url: ""
+
+# Disqus config
+disqus-shortname: ""
