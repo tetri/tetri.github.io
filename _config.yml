@@ -4,7 +4,7 @@ description: Arquiteto de Software
 meta_description: "Tetri Mesquita, arquiteto de software"
 
 author: Tetri Mesquita
-author_bio: "Brasileiro há 36 anos, casado há 12 anos com a Fernanda, pai do Frederico há 9 anos e do Theodoro há 8 meses. Experiência com análise e desenvolvimento de sistemas há mais de 15 anos, sempre no Agro."
+author_bio: "Brasileiro há 38 anos, casado há 14 anos com a Fernanda, pai do Frederico há 11 anos e do Theodoro há 2 anos. Experiência com análise e desenvolvimento de sistemas há mais de 15 anos, sempre no Agro."
 email: tetri.mesquita@gmail.com
 gravatar_hash: f08ef1f2b5eb4061f097df9256d09034
 
@@ -18,8 +18,9 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 logo: false
 paginate: 15
 #baseurl: /kasper
-domain_name: "http://tetri.github.io/"
-google_analytics: "G-Z6MNF65F3V"
+domain_name: "http://tetri.net/"
+#google_analytics: "G-Z6MNF65F3V"
+google_analytics: "G-Y483F6EJCF"
 
 collections:
   - links
